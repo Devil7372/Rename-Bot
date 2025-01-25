@@ -23,12 +23,12 @@ Daily Upload limit 100GB
 Price Rs 179  ind /🌎 2.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>TechifyBots@UPI</code>
+<b>➜ UPI ID :</b> <code>prashant90@fam</code>
 
-After Payment Send Screenshots Of Payment To Admin @CallOwnerBot"""
+After Payment Send Screenshots Of Payment To Admin @xaepm"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CallOwnerBot"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/xaepm"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
@@ -55,12 +55,12 @@ Daily Upload limit 100GB
 Price Rs 179  ind /🌎 2.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>TechifyBots@UPI</code>
+<b>➜ UPI ID :</b> <code>prashant90@fam</code>
 
-After Payment Send Screenshots Of Payment To Admin @CallOwnerBot"""
+After Payment Send Screenshots Of Payment To Admin @xaepm"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CallOwnerBot"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/xaepm"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
